@@ -16,6 +16,7 @@ import io.moquette.server.config.MemoryConfig;
 
 public class BrokerActivity extends AppCompatActivity {
 //hhhhhhhh
+    // aaaaaaaaaaaaaaa
 
     io.moquette.server.Server server = new io.moquette.server.Server();
 
